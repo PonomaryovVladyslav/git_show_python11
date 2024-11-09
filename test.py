@@ -1,2 +1,2 @@
 def blabla():
-    print('aaaa')
+    print('bbbb')
